@@ -14,3 +14,6 @@ If you use this road defect image dataset, we appreciate it if you cite an appro
   year={2019},
   publisher={International Society for Optics and Photonics}
 }
+
+License:
+The dataset is made available for non-commercial research purposes only.
