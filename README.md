@@ -1,7 +1,7 @@
-# Road-defect-dataset 
+# RLRD road-defect-dataset
 
 
-Road-defect-dataset is an annotated road defect image dataset which can reflect urban road surface condition in general.
+RLRD dataset is a real-life road defect (RLRD) image dataset which can reflect urban road surface condition in general.
 If you use this road defect image dataset, we appreciate it if you cite an appropriate subset of the following papers:
 
 @article{chen2019block,
